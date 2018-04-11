@@ -14,3 +14,5 @@
 -Installation 7zip
 -Installazion Visuel Studio Code
 -Installation Python
+
+RaspberryPI erhalten :D
