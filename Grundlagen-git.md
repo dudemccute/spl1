@@ -5,3 +5,6 @@
 - 3 git add <file>
 - 4 git commit
 - 5 git push
+
+und wiederholen
+und arbeiten mit dem Branch von "Test
