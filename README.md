@@ -2,5 +2,7 @@
 ## Mark W.
 ### 11.04.2018, SPL
 
-Grundlagen GIT
-Installation VM
+#Inhalt
+*Grundlagen GIT
+*Installation VM
+*Einrichtung GIT
